@@ -1,10 +1,10 @@
 ## Hello there, I am Apon Roy. Welcome to my GitHub profile.
 
 
-Where code happens, coffee is consumed in gallons.
+I hope you are doing well in your life.
 
 ##  About Me
-Hey there. I am an undergrad student in CSE. I am majoring in Software Engineering and exploring web technologies such as HTML, CSS, JavaScript, and ReactJS. Also, I am interested in DevOps.
+I am an undergrad student in CSE. I am majoring in Software Engineering and exploring web technologies such as HTML, CSS, JavaScript, and ReactJS. Also, I am interested in DevOps.
 
 
 ##  Technologies
