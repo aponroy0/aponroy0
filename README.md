@@ -5,6 +5,7 @@ I hope you are doing well in your life.
 
 ##  About Me
 I am an undergrad student in CSE. I am majoring in Software Engineering and exploring web technologies such as HTML, CSS, JavaScript, and ReactJS. Also, I am interested in DevOps.
+I love sketching and watching football.
 
 
 ##  Technologies
