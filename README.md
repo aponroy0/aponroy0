@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Apon Roy.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **Frameworks.**
+I am an undergrad student in CSE. I am majoring in Software Engineering and exploring web technologies such as HTML, CSS, JavaScript, and ReactJS. Also, I am interested in DevOps.
+I love sketching and watching football.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
