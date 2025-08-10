@@ -3,6 +3,7 @@
 
 I am an undergrad student in CSE. I am majoring in Software Engineering and exploring Cloud technologies such as AWS and its services. Currently, I am learning Linux, along with Git. These are the prior steps to go into the cloud.
 <br/>
+<br/>
 I love sketching and watching football in my free time.
 
 <p align="left"></p>
